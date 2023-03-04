@@ -126,6 +126,8 @@ p {
 #testimonials {
   background-color: #ef8172;
   color: #fff;
+  position: relative;
+  z-index: 1
 }
 
 .testimonial-image {
